@@ -6,8 +6,8 @@
 
 [My Website](https://juusechec.github.io/)
 
-[![image](https://user-images.githubusercontent.com/4140058/147900090-3965ae18-de1c-4200-bfbb-776bd5c5ea04.png)](https://github.com/jusech5)
-
+<!-- [![image](https://user-images.githubusercontent.com/4140058/147900090-3965ae18-de1c-4200-bfbb-776bd5c5ea04.png)](https://github.com/jusech5)
+ -->
 
 <!--
 **juusechec/juusechec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
