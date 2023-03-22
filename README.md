@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Corporate [GitHub account](https://github.com/jusech5) and some projects in [GitLab account](https://gitlab.com/juusechec)
+- 🔭 I’m currently working on [Nubank organization](https://github.com/nubank) with a previous corporate [GitHub account](https://github.com/jusech5) and some projects in [GitLab account](https://gitlab.com/juusechec)
 - 🌱 I’m currently learning in a MS [Data Science](https://estudios.uoc.edu/es/masters-universitarios/data-science/presentacion)
 - 👯 I’m looking to collaborate on [The AI community](https://huggingface.co)
 
