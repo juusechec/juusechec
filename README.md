@@ -6,8 +6,6 @@
 
 [My Website](https://juusechec.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juusechec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Jorge Useches's GitHub stats](https://github-readme-stats.vercel.app/api?username=juusechec)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![image](https://user-images.githubusercontent.com/4140058/147900090-3965ae18-de1c-4200-bfbb-776bd5c5ea04.png)](https://github.com/jusech5)
