@@ -8,7 +8,7 @@
 
 ![Jorge Useches's GitHub stats](https://github-readme-stats.vercel.app/api?username=juusechec\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-<img src="https://wakatime.com/share/@juusechec/6457e473-b98c-4a32-b374-bc2c13215c04.svg" width="467" />
+<img src="https://wakatime.com/share/@juusechec/5907534d-1c9e-4f2e-ab1a-efd5627b80f2.svg" width="467" />
 <!-- [![image](https://user-images.githubusercontent.com/4140058/147900090-3965ae18-de1c-4200-bfbb-776bd5c5ea04.png)](https://github.com/jusech5)
  -->
 
